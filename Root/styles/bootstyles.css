@@ -1,0 +1,84 @@
+.common {
+    background-color: gray;
+    border: solid 2px white;
+    position: absolute;
+}
+
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    padding-top: 40px;
+}
+
+.commonfooter{
+    background-color: gray;
+    border: solid 2px white;
+    text-align: center;
+}
+
+.footer{
+    bottom: 5px;
+    height: 75px;
+    left: 5px;
+    right: 5px;
+    font-size 8px;
+    text-align: center;
+}
+
+.subright{
+    float:right;
+
+}
+
+.dashtext1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color:white;
+    position: relative;
+    left: 175px;
+}
+
+.dashtext2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 935px;
+    bottom: 485px;
+    font-size: medium;
+    color:white
+    
+}
+
+.dashtext3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 205px;
+    top: 100px;
+    font-size: medium;
+    color:white
+}
+
+.dashtext4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 1035px;
+    top: 80px;
+    font-size: medium;
+    color:white
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color:white
+
+}
